@@ -1,0 +1,46 @@
+{
+  "source_channels": [
+    {
+      "id": "-1002866180147",
+      "username": "newsmain222"
+    },
+    {
+      "id": "-1001685592361",
+      "username": null
+    },
+    {
+      "id": "-1001072723547",
+      "username": "cointelegraph"
+    },
+    {
+      "id": "-1001556054753",
+      "username": "WatcherGuru"
+    },
+    {
+      "id": "-1001680150184",
+      "username": "Fin_Watch"
+    },
+    {
+      "id": "-1002485625920",
+      "username": "postupdate2"
+    },
+    {
+      "id": "-1002142501892",
+      "username": "ETF_Flows"
+    },
+    {
+      "id": "-1001246846205",
+      "username": "cryptoquant_alert"
+    }
+  ],
+  "destination_channels": [
+    {
+      "id": "-1002764282698",
+      "username": "newsforward2"
+    }
+  ],
+  "admin_ids": [
+    6100298605
+  ],
+  "show_source": true
+}
