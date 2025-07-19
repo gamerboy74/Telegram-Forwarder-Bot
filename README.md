@@ -65,7 +65,7 @@ API_ID=your_api_id
 API_HASH=your_api_hash
 BOT_TOKEN=your_bot_token
 ADMIN_ID=your_telegram_id
-FORWARD_SECRET=my_super_secret
+FORWARD_SECRET=my_super_secret (BOTH FOR BOT SERVER AND FORWARDER)
 FORWARD_URL=http://localhost:8000/forward
 ```
 
